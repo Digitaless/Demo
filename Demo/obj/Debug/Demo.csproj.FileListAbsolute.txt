@@ -1,0 +1,9 @@
+E:\PROYECTOS\GITHUB\Demo\Demo\bin\Debug\Demo.exe.config
+E:\PROYECTOS\GITHUB\Demo\Demo\bin\Debug\Demo.exe
+E:\PROYECTOS\GITHUB\Demo\Demo\bin\Debug\Demo.pdb
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.exe
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.pdb
