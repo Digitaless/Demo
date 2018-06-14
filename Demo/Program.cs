@@ -13,7 +13,7 @@ namespace Demo
         /// </summary>
         [STAThread]
         static void Main()
-        {//Aqui cambiamos una linea.....
+        {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
