@@ -7,3 +7,4 @@ E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
 E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
 E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.exe
 E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.pdb
+E:\PROYECTOS\GITHUB\Demo\Demo\obj\Debug\Demo.Form1.resources
